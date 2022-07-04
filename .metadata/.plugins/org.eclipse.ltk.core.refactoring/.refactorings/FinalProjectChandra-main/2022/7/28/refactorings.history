@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;db&apos; to &apos;FinalProjcetYusuf_bus/src/main/resources&apos;&#x0D;&#x0A;- Original project: &apos;FinalProjectChandra-main&apos;&#x0D;&#x0A;- Destination element: &apos;FinalProjcetYusuf_bus/src/main/resources&apos;&#x0D;&#x0A;- Original element: &apos;db&apos;" description="Copy folder" destination="=FinalProjcetYusuf_bus/src\/main\/resources=/maven.pomderived=/true=/" element1="src/main/resources/db" files="0" flags="589830" folders="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1656968995366" units="0" version="1.0"/>
+</session>

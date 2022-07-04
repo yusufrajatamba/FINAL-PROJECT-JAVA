@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.yusuf.bus.service.trip.TripService"/>
+    <fullyQualifiedTypeName name="com.yusuf.bus.model.bus.Stop"/>
+    <fullyQualifiedTypeName name="com.yusuf.bus.model.bus.Agency"/>
+    <fullyQualifiedTypeName name="com.yusuf.bus.payload.request.TripRequest"/>
+    <fullyQualifiedTypeName name="com.yusuf.bus.repository.TripRepository"/>
+    <fullyQualifiedTypeName name="com.yusuf.bus.service.trip.TripServiceImpl"/>
+    <fullyQualifiedTypeName name="com.yusuf.bus.model.bus.Trip"/>
+    <fullyQualifiedTypeName name="com.yusuf.bus.model.bus.Bus"/>
+    <fullyQualifiedTypeName name="com.yusuf.bus.service.user.UserServiceImpl"/>
+    <fullyQualifiedTypeName name="com.yusuf.bus.repository.UserRepository"/>
+    <fullyQualifiedTypeName name="com.yusuf.bus.service.user.UserService"/>
+    <fullyQualifiedTypeName name="org.apache.catalina.User"/>
+    <fullyQualifiedTypeName name="com.yusuf.bus.model.user.User"/>
+</qualifiedTypeNameHistroy>
